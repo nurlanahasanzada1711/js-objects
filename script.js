@@ -1,4 +1,4 @@
-class Fish {
+class car {
     constructor(brand, model, currentFuel, fulFor1Km, millage) {
         this.brand = brand;
         this.model = model;
